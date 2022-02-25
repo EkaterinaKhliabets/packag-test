@@ -1,6 +1,8 @@
 {
     "name": "ekaterinakhliabets/packag-test",
     "license": "MIT",
+    "minimum-stability": "dev",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Ekaterinakhliabets\\PackagTest\\": "src/"
